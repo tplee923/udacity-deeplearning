@@ -30,3 +30,7 @@
 [0625/201449.314:INFO:rc_l10n_handler.cc(137)] Trying language from system preferred list: en-US
 [0625/201449.314:INFO:rc_l10n_handler.cc(180)] Retrying after adjustments: en-US
 [0625/201449.315:INFO:rc_l10n_handler.cc(137)] Trying language from system preferred list: en
+[0626/201451.063:INFO:rc_l10n_handler.cc(131)] Language not in the available languages list: en-US
+[0626/201451.089:INFO:rc_l10n_handler.cc(137)] Trying language from system preferred list: en-US
+[0626/201451.089:INFO:rc_l10n_handler.cc(180)] Retrying after adjustments: en-US
+[0626/201451.089:INFO:rc_l10n_handler.cc(137)] Trying language from system preferred list: en
